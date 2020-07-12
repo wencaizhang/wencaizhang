@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 I am the creator of vscode-deno. Currently a contributor to Deno.
+-->
 
 - 🔭 I’m currently working on [ActionVue](https://github.com/wencaizhang/ActionVue)
 - 🌱 I’m currently learning JavaScript, Vue.js and Node.js
